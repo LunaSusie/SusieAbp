@@ -1,0 +1,12 @@
+body {
+    padding-top: 5rem;
+}
+
+    body.abp-empty-layout {
+        padding-top: 0;
+    }
+
+#main-navbar-tools a.dropdown-toggle {
+    text-decoration: none;
+    color: #fff;
+}
